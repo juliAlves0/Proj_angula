@@ -1,0 +1,11 @@
+{
+  "name": "api-rast",
+  "version": "1.0.0",
+  "description": "consumo de api rast via protcolo http",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "joao vitor",
+  "license": "ISC"
+}

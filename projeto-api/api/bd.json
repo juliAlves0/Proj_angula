@@ -1,0 +1,166 @@
+{
+  "albuns": [
+    {
+      "id": 1,
+      "album": "Lover",
+      "artista": "Taylor Swift",
+      "img": "https://upload.wikimedia.org/wikipedia/pt/3/3c/Capa_de_Lover.png"
+    },
+    {
+      "id": 2,
+      "album": "RED",
+      "artista": "Taylor Swift",
+      "img": "https://upload.wikimedia.org/wikipedia/pt/8/8e/Red_%28Taylor%27s_Version%29.png"
+    },
+    {
+      "id": 3,
+      "album": "Reputation",
+      "artista": "Taylor Swift",
+      "img": "https://resources.claroshop.com/imagenes-sanborns-ii/1200/843930033102.jpg"
+    },
+      {
+        "id": 4,
+        "album": "Lover",
+        "artista": "Taylor Swift",
+        "img": "https://upload.wikimedia.org/wikipedia/pt/3/3c/Capa_de_Lover.png"
+      },
+      {
+        "id": 2,
+        "album": "RED",
+        "artista": "Taylor Swift",
+        "img": "https://upload.wikimedia.org/wikipedia/pt/8/8e/Red_%28Taylor%27s_Version%29.png"
+      },
+      {
+        "id": 3,
+        "album": "Reputation",
+        "artista": "Taylor Swift",
+        "img": "https://resources.claroshop.com/imagenes-sanborns-ii/1200/843930033102.jpg"
+      }
+    ],
+    [
+      {
+        "id": 1,
+        "album": "Lover",
+        "artista": "Taylor Swift",
+        "img": "https://upload.wikimedia.org/wikipedia/pt/3/3c/Capa_de_Lover.png"
+      },
+      {
+        "id": 2,
+        "album": "RED",
+        "artista": "Taylor Swift",
+        "img": "https://upload.wikimedia.org/wikipedia/pt/8/8e/Red_%28Taylor%27s_Version%29.png"
+      },
+      {
+        "id": 3,
+        "album": "Reputation",
+        "artista": "Taylor Swift",
+        "img": "https://resources.claroshop.com/imagenes-sanborns-ii/1200/843930033102.jpg"
+      },
+      [
+        {
+          "id": 1,
+          "album": "Lover",
+          "artista": "Taylor Swift",
+          "img": "https://upload.wikimedia.org/wikipedia/pt/3/3c/Capa_de_Lover.png"
+        },
+        {
+          "id": 2,
+          "album": "RED",
+          "artista": "Taylor Swift",
+          "img": "https://upload.wikimedia.org/wikipedia/pt/8/8e/Red_%28Taylor%27s_Version%29.png"
+        },
+        {
+          "id": 3,
+          "album": "Reputation",
+          "artista": "Taylor Swift",
+          "img": "https://resources.claroshop.com/imagenes-sanborns-ii/1200/843930033102.jpg"
+        }
+      ]
+    ],
+    [
+      {
+        "id": 1,
+        "album": "Lover",
+        "artista": "Taylor Swift",
+        "img": "https://upload.wikimedia.org/wikipedia/pt/3/3c/Capa_de_Lover.png"
+      },
+      {
+        "id": 2,
+        "album": "RED",
+        "artista": "Taylor Swift",
+        "img": "https://upload.wikimedia.org/wikipedia/pt/8/8e/Red_%28Taylor%27s_Version%29.png"
+      },
+      {
+        "id": 3,
+        "album": "Reputation",
+        "artista": "Taylor Swift",
+        "img": "https://resources.claroshop.com/imagenes-sanborns-ii/1200/843930033102.jpg"
+      },
+      [
+        {
+          "id": 1,
+          "album": "Lover",
+          "artista": "Taylor Swift",
+          "img": "https://upload.wikimedia.org/wikipedia/pt/3/3c/Capa_de_Lover.png"
+        },
+        {
+          "id": 2,
+          "album": "RED",
+          "artista": "Taylor Swift",
+          "img": "https://upload.wikimedia.org/wikipedia/pt/8/8e/Red_%28Taylor%27s_Version%29.png"
+        },
+        {
+          "id": 3,
+          "album": "Reputation",
+          "artista": "Taylor Swift",
+          "img": "https://resources.claroshop.com/imagenes-sanborns-ii/1200/843930033102.jpg"
+        }
+      ],
+      [
+        {
+          "id": 1,
+          "album": "Lover",
+          "artista": "Taylor Swift",
+          "img": "https://upload.wikimedia.org/wikipedia/pt/3/3c/Capa_de_Lover.png"
+        },
+        {
+          "id": 2,
+          "album": "RED",
+          "artista": "Taylor Swift",
+          "img": "https://upload.wikimedia.org/wikipedia/pt/8/8e/Red_%28Taylor%27s_Version%29.png"
+        },
+        {
+          "id": 3,
+          "album": "Reputation",
+          "artista": "Taylor Swift",
+          "img": "https://resources.claroshop.com/imagenes-sanborns-ii/1200/843930033102.jpg"
+        },
+        [
+          {
+            "id": 1,
+            "album": "Lover",
+            "artista": "Taylor Swift",
+            "img": "https://upload.wikimedia.org/wikipedia/pt/3/3c/Capa_de_Lover.png"
+          },
+          {
+            "id": 2,
+            "album": "RED",
+            "artista": "Taylor Swift",
+            "img": "https://upload.wikimedia.org/wikipedia/pt/8/8e/Red_%28Taylor%27s_Version%29.png"
+          },
+          {
+            "id": 3,
+            "album": "Reputation",
+            "artista": "Taylor Swift",
+            "img": "https://resources.claroshop.com/imagenes-sanborns-ii/1200/843930033102.jpg"
+          }
+        ]
+      ]
+    ],
+    {
+      "album": "dassda",
+      "artista": "dsada",
+      "img": "dsad",
+      "id": 7
+    }
+}

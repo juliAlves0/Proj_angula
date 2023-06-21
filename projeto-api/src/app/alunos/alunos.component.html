@@ -1,0 +1,23 @@
+<nav>
+    <img src="../../assets/os_Albúns_do_seus_artistas_preferidos__1_-removebg-preview.png" class="logo">
+    <a class="nav-link" href="/painel">Painel</a>
+</nav>
+
+<form>
+    <h1>Insira o Album</h1>
+    <p><input type="text" placeholder="Nome do Album" name="nome" [(ngModel)]="albun.album"></p>
+    <p><input type="text" placeholder="Artista" name="nome" [(ngModel)]="albun.artista"></p>
+    <p><input type="text" placeholder="Imagem" name="nome" [(ngModel)]="albun.img"></p>
+    <button type="button" (click)="cadastrarAluno()">Casdastrar</button>
+</form>
+
+<hr>
+<h2>Lista de Albuns</h2>
+
+<div class="container">
+    <div class="row" *ngFor="let a of Albuns">
+        <img src="{{a.img}}" class="img">
+        <h1 class="titulo">{{a.album}}</h1>
+        <span class="artista">{{a.artista}}</span>
+    </div>
+</div>

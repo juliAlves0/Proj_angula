@@ -1,2 +1,2 @@
-# Proj_angula
+# Proj_angular
 Projeto final Angular.
